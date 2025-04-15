@@ -10,13 +10,13 @@ A free music collection project called Popcrush includes collections of popular 
 
 Some of the artists from the period between 2012 and 2015 are including:
 
-* Rihanna, Usher, Kamelia Hora
+* Rihanna, Usher, Shakira, Kamelia Hora, Edward Maya
 
-* Rita Ora, Britney Spears, Will.i.am
+* Rita Ora, Britney Spears, Will.i.am, Betty Who
 
-* INNA, Play & Win, Pitbull, Chris Brown
+* INNA, Play & Win, Pitbull, Chris Brown, Miley Cyrus
 
-* Elena Gheorghe, Dony, Otilia Brumă
+* Alexandra Stan, Elena Gheorghe, Dony, Otilia Brumă
 
 * Akcent, Benny Benassi, Enrique Iglesias
 
